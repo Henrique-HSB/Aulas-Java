@@ -4,6 +4,7 @@ public class While {
 
   public static void main(String[] args) {
 
+
     var x = 0;
 
     //Testa a condição antes
