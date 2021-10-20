@@ -4,10 +4,10 @@ public class StringBuilder {
 
   public static void main(String[] args) {
 
-    var nome = "André";
+    var nome = "Henrique";
 
     final var builder = new java.lang.StringBuilder(nome);
-    System.out.println(builder.append("Luis"));
+    System.out.println(builder.append("Batista"));
 
     final var reverse = builder.reverse();
 
