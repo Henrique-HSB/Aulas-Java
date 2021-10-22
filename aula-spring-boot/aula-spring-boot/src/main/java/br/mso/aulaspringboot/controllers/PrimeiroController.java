@@ -1,4 +1,4 @@
-package br.mso.aulaspringboot.controller;
+package br.mso.aulaspringboot.controllers;
 
 
 import org.springframework.web.bind.annotation.RequestMapping;
