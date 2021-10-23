@@ -11,3 +11,5 @@ public class AulaSpringBootApplication {
 	}
 
 }
+//taskkill /PID 6512 /F
+//comando pra Zerar a porta do server
